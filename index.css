@@ -1,24 +1,19 @@
 #free{
-font-family: Arial, sans-serif;
-    background-color: #1393aa;
-    margin: 5px;
-    padding: 45px;
+    align-content: center;
+    align-items: center;
+    background-color: rgba(170, 148, 148, 0.9);
     display: flex;
     justify-content: center;
-    align-items: center;
     flex-direction: column;
-    min-height: 100%;
-
-    background-color: rgba(170, 148, 148, 0.9);
-    padding: 30px;
+    padding: 50px;
     border-radius: 10px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
     width: 100%;
     max-width: 400px;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
+    
 }
 
 #key{
+    align-content: center;
+    align-items: center;
 }
