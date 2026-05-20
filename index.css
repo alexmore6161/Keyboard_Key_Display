@@ -1,0 +1,13 @@
+#free{
+    width: 80px;
+    max-width: 600px;
+    position:absolute;
+    transform: translate(-50%, -50%);
+    top : 50%;
+    left: 50%;
+}
+
+#key{
+    font-size: 50px;
+    color: red;
+}
